@@ -1,0 +1,20 @@
+# Data manipulation and analysis
+pandas==1.5.3
+numpy==1.24.2
+
+# Visualization
+matplotlib==3.6.2
+seaborn==0.12.2
+
+# Machine learning
+scikit-learn==1.2.1
+tensorflow==2.11.0
+
+# Model saving and loading
+joblib==1.2.0
+
+# File pattern matching
+glob2==0.7
+
+# Scientific computing
+scipy==1.10.1
