@@ -26,7 +26,7 @@ from glob import glob # list all files based on extensions
 # df = pd.read_csv(f)
 # df["participant"] = participant
 # df["label"] = label
-# df["category"] = category
+# df["category"] = category 
 
 # --------------------------------------------------------------
 # Read all files
@@ -46,7 +46,7 @@ from glob import glob # list all files based on extensions
 #     df["label"] = label
 #     df["category"] = category
     
-#     if "Accelerometer" in f:
+#     if "Accelerometer" in f:  
 #         df["set"] = acc_set
 #         acc_df = pd.concat([acc_df,df])
 #         acc_set+=1
